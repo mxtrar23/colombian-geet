@@ -1,0 +1,23 @@
+{
+  "name": "colombian-geet",
+  "version": "1.0.0",
+  "description": "saludos colombianos aleatorios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxtrar23/colombian-geet.git"
+  },
+  "author": "haperez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mxtrar23/colombian-geet/issues"
+  },
+  "homepage": "https://github.com/mxtrar23/colombian-geet#readme",
+  "bin": {
+    "colombian-geet": "./bin/global.js"
+  },
+  "preferGlobal" : true
+}
